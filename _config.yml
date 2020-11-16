@@ -1,17 +1,17 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-first_name: FirstName
-last_name: LastName
-email: yourname@cs.kuleuven.be
+first_name: Clément
+last_name: Gautrais
+email: clement.gautrais@cs.kuleuven.be
 description: > # this means to ignore newlines until "url:"
-  KU Leuven PhD researcher at the DTAI research group.
+  KU Leuven Post-doctoral researcher at the DTAI research group.
 footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   <a href="https://dtai.cs.kuleuven.be/" target="_blank">DTAI</a>.
   <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>.
   
 
-show_news: true
+show_news: false
 show_address: true
  
 url:  # the base hostname & protocol for your site
@@ -37,8 +37,8 @@ teaching:
 github_username: # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: ZsO_oz8AAAAJ # your Google Scholar ID
+orcid_id: 0000-0001-8486-9616 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 
