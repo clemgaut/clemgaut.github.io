@@ -24,12 +24,21 @@ last_updated: # leave blank if you don't want to display last updated
 ku_leuven_personnel_number: "0XXXXXX"
 
 teaching:
-- period: 2017-2019
-  course: Course 1 Name
-  note: A course about XXX
+- period: 2019-2020
+  course: Machine Learning and Inductive Inference
+  note: Tutorials for Master 2 students on Machine Learning (part of the <a href="https://wms.cs.kuleuven.be/cs/studeren/master-artificial-intelligence">MAI Master</a>)
 - period: 2018-2019
-  course: Course 2 name
-  note: A course about XXX
+  course: Informatica1
+  note: Introduction to to Python programming for architecture students (Lab assistant at <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>)
+- period: 2015-2017
+  course: PROG1
+  note: Introduction to Java Object Oriented programming (Lab assistant at <a href="https://esir.univ-rennes1.fr/">ESIR</a>)
+- period: 2015-2017
+  course: SYS
+  note: Introduction to assembly language (Lab assistant at <a href="https://esir.univ-rennes1.fr/">ESIR</a>)
+- period: 2015-2017
+  course: ALG
+  note: Graph algorithms (Lab and tutorials assistant at <a href="https://esir.univ-rennes1.fr/">ESIR</a>)
 
 # -----------------------------------------------------------------------------
 # Social integration
