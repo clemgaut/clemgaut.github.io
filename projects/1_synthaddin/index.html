@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title></title>
+  <title> | SYNTH Excel Add-in</title>
   <meta name="description" content="CTO at <a href="https://www.brightclue.com/">Brightclue</a>
 ">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/projects/">
+  <link rel="canonical" href="/projects/1_synthaddin/">
 </head>
 
 
@@ -78,29 +78,40 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="post-header">
-  <h1 class="post-title">Projects</h1>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">SYNTH Excel Add-in</h1>
+    <h5 class="post-description">Developing an interface to make data science available in spreadsheets</h5>
+  </header>
+
+  <article class="post-content SYNTH Excel Add-in clearfix">
+    <div class="col three caption">
+    <img src="/assets/img/excel_synth_addin.png" alt="" title="Screenshot of the SYNTH add-in" width="90%" />
 </div>
 
+<p>The <a target="_blank" href="https://synth.cs.kuleuven.be/">SYNTH</a> project has the goal of automating data science.
+Automating data science can then allow naive end-users (end users with little knowledge about data science) to perform data science tasks.</p>
 
-<ul class="post-list">
-  
-    <li>
-    
-      <h3><a class="post-title" href="/projects/1_synthaddin/">SYNTH Excel Add-in</a></h3>
-    
-      <p>Developing an interface to make data science available in spreadsheets</p>
-    </li>
-  
-    <li>
-    
-      <h3><a class="post-title" href="/projects/2_signaturethesis/">Analyzing retail customer behavior</a></h3>
-    
-      <p>The main topic of my PhD thesis</p>
-    </li>
-  
-</ul>
+<p>Various tools were developed in the context of the SYNTH project to automate different data science tasks.
+A list of these tools is available <a target="_blank" href="https://synth.cs.kuleuven.be/content/software-0">here</a>.</p>
 
+<p>To make these tools available to end-users, we decided to focus on spreadsheets, that are a common way to store data.
+We therefore developed an add-in for Microsoft Excel. Demos of this add-in are available <a target="_blank" href="https://synth.cs.kuleuven.be/content/software-demo">here</a>.</p>
+
+<p>I was one of the main developers of this add-in, and defined several architectural choices.
+I also participated in the definition of interaction mechanisms to allow naive end-users to perform data science in Excel. These mechanisms are presented in this <a target="_blank" href="https://arxiv.org/pdf/2004.11113.pdf">paper</a>.</p>
+
+<p>I used the  Excel Javascript API and React to develop parts of the Excel add-in (the frontend).
+I mostly used Python and some of its libraries (Flask, marshmallow, numpy, pandas) to implement the backend.</p>
+
+  </article>
+
+  
+
+  
+
+</div>
 
       </div>
     </div>
