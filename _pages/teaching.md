@@ -6,7 +6,7 @@ description: Courses I helped teaching and students I supervised
 ---
 ## Student supervision
 
-I supervise Master students for their thesis on a variety of topics:
+I supervised Master students for their thesis on a variety of topics:
  - Emile Valcke (2020-2021), on developing a model to help football scouts in planning their trips. (co-supervised with <a target="_blank" href="https://scholar.google.com/citations?user=Tdj5P38AAAAJ&hl=en">Mohit Kumar</a>)
  - <a target="_blank" href="https://be.linkedin.com/in/ignace-bleukx-a6341b17a">Ignace Bleukx</a> (2020-2021), on developing a tool to automatically recover data from binary files. (co-supervised with <a target="_blank" href="https://scholar.google.be/citations?user=TmU3sKMAAAAJ&hl=en">Gust Verbruggen</a>)
  - <a target="_blank" href="https://www.linkedin.com/in/shuo-sun">Shuo Sun</a> (2019-2020), on developing a system to intuitively query for soccer actions.

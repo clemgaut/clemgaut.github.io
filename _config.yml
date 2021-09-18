@@ -3,12 +3,11 @@
 # -----------------------------------------------------------------------------
 first_name: Clément
 last_name: Gautrais
-email: clement.gautrais@cs.kuleuven.be
+email: clement.gautrais@brightclue.com
 description: > # this means to ignore newlines until "url:"
-  KU Leuven Post-doctoral researcher at the DTAI research group.
+  CTO at <a href="https://www.brightclue.com/">Brightclue</a>
 footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  <a href="https://dtai.cs.kuleuven.be/" target="_blank">DTAI</a>.
-  <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>.
+  
   
 
 show_news: false
@@ -52,7 +51,7 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
-  You can reach me on firstname.lastname@cs.kuleuven.be
+  You can reach me on firstname.lastname@brighclue.com
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
